@@ -12,4 +12,10 @@
 Macc-Mp/Macc-Mp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
+
