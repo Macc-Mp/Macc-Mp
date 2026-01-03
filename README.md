@@ -19,3 +19,6 @@ Frontend
 Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
+version control
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
