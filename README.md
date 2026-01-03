@@ -13,12 +13,12 @@ Macc-Mp/Macc-Mp is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-###Frontend
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-###Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
-###version control
+### version control
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
