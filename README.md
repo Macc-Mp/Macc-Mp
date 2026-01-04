@@ -86,12 +86,4 @@
 
 <img src="https://raw.githubusercontent.com/Macc-Mp/Macc-Mp/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif"  />
-
-###
-
-<p align="left">I aspire to be a Software Developer!<br>From building apps, games and web aplications.</p>
-
-###
