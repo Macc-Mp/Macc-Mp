@@ -1,4 +1,7 @@
-![catto](assets/giphy.gif)
+<div align="center">
+  <img src="giphy.gif" alt="catto" />
+</div>
+
 ###
 
 <div align="center">
