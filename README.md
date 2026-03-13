@@ -1,3 +1,4 @@
+![catto](assets/giphy.gif)
 ###
 
 <div align="center">
