@@ -9,6 +9,10 @@
   </div>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/macc-mp">
@@ -23,8 +27,6 @@
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-
-## 🛠️ Languages & Tools
 
 <!-- <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -76,13 +78,10 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:macmoises12@gmail"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Moises Mac Paule's Email"/></a>&nbsp;&nbsp;
   <a href="moisespaule.dev"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-</p>
+</p> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+
 
