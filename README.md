@@ -16,9 +16,9 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=macc-mp&theme=prussian&hide_border=true&cache_seconds=86400" alt="macc-mp's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=macc-mp&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moises Mac Paule's GitHub Trophies" />
-</p>
+</p> -->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
@@ -26,7 +26,7 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<!-- <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
@@ -68,7 +68,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/macc-mp">
