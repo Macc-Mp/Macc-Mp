@@ -1,3 +1,12 @@
+## 👋 About Me
+
+<img src="assets/giphy.gif" alt="catto" width="180" align="right" />
+
+- 🎓 Computer Science Student.
+- 💻 Building useful things and collaborating with other fellow devs.
+- 🌐 Portfolio: [moisespaule.dev](https://moisespaule.dev)
+
+<br clear="right" />
 <!-- Space Shooter Contribution Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="100%" />
@@ -39,10 +48,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Macc-MP.Macc-Mp" alt="Profile Visitors" />
 </p>
 
-<!-- Cat GIF -->
-<p align="center">
-  <img src="assets/giphy.gif" alt="catto" width="220" />
-</p>
+
 
 <!-- 3D Contribution City -->
 <p align="center">
