@@ -23,17 +23,7 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=macc-mp&theme=prussian&hide_border=true&cache_seconds=86400" alt="macc-mp's GitHub Streak" />
 </p>
 
-<!-- GitHub Trophies
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=macc-mp&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moises Mac Paule's GitHub Trophies" />
-</p>
--->
 
-<p align="center">
-  <a href="https://github.com/macc-mp">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=macc-mp&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
